@@ -1,0 +1,55 @@
+.delivery{
+    display: flex;
+
+    
+}
+.dine-out{
+    display:flex;
+
+}
+
+.menu{
+    font-size: 40px;
+}
+
+.dineheading{
+    color:rgb(20, 19, 19);
+    background-color: white;
+    padding-left: 650px;
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.statistics{
+ padding-left: 500px;
+
+}
+
+.inspiration{
+    background-color: white;
+    color: rgb(12, 12, 12);
+    font-size: 30px;
+    padding-left: 500px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+.brands{
+    
+    background-color: white;
+    color: rgb(12, 12, 12);
+    font-size: 30px;
+    padding-left: 700px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+.deliveryheading{
+
+    background-color: white;
+    color: rgb(12, 12, 12);
+    font-size: 25px;
+    padding-left: 450px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+
